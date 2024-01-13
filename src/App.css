@@ -1,0 +1,11 @@
+
+*{
+  background-color: black;
+  /* background-image: url(../src/assets/giphy.gif); */
+ 
+}
+.App{
+ 
+ background-repeat: no-repeat;
+ background-size: cover;
+}

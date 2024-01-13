@@ -1,0 +1,13 @@
+.logo {
+text-align: center;
+}
+.Heading{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: red;
+    margin-top: 20px;
+}
