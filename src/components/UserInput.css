@@ -1,0 +1,14 @@
+.userinput{
+    background-color: rgb(18, 19, 18);
+    height: 200px;
+}
+.userinput label{
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+}
+.userinput input{
+    font-size: 20px;
+    color: white;
+    border: 1px solid white;
+}
